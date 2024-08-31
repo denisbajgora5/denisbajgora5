@@ -1,12 +1,10 @@
-## Hi there, My name is Denis Bajgora 👋
+## Hi there, I'm Denis Bajgora, a passionate Software & Web Developer based in Dublin, Ireland.
 
-👋 I'm Denis Bajgora, a passionate Software & Web Developer based in Dublin, Ireland.
+I am a third-year Computer Science Infrastructure student at Technological University Dublin (TUD) with a deep passion for software and web development.
 
-💻 At 21 years old, I bring ideas to life with code, specializing in both front-end and back-end development.
+As a lifelong learner, I thrive on the challenges that development presents and take great satisfaction in overcoming them.
 
-🚀 I work with a variety of technologies, including HTML, CSS, JavaScript, PHP, C, Java, and MySQL.
-
-🎯 My goal is to continually grow my skills and contribute to impactful projects.
+I am motivated by the opportunity that software provides to positively impact the life of an individual, and the world as a whole.
 
 📟 Check out my work on GitHub or connect with me on LinkedIn!
 
