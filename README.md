@@ -1,4 +1,4 @@
-## 👋 Hello!, I'm Denis Bajgora, a passionate Software & Web Developer based in Dublin, Ireland.
+## 👋 Hello! I'm Denis Bajgora, a passionate Software & Web Developer based in Dublin, Ireland.
 
 🏫 I am a third-year Computer Science Infrastructure student at Technological University Dublin (TUD) with a deep passion for software and web development. 
 
