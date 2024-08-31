@@ -16,4 +16,4 @@ Other Github account: https://github.com/DenisBajgora
 
 Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=,html,css,js,php,c,java,mysql,figma,json,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=,html,css,js,php,c,java,mysql,figma,git,github)](https://skillicons.dev)
