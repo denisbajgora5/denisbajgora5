@@ -16,4 +16,4 @@ Other Github account: https://github.com/DenisBajgora
 
 Technologies I Use
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=,html,css,js,php,c,java,mysql)](https://skillicons.dev)
