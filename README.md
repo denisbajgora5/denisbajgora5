@@ -14,6 +14,6 @@ LinkedIn: https://www.linkedin.com/in/denis-bajgora-1a4153324/
 
 Other Github account: https://github.com/DenisBajgora
 
-Technologies I Use
+Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=,html,css,js,php,c,java,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=,html,css,js,php,c,java,mysql,figma,json,git,github)](https://skillicons.dev)
