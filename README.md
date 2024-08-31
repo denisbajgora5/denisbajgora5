@@ -13,3 +13,7 @@ Check out my work on GitHub or connect with me on LinkedIn!
 LinkedIn: https://www.linkedin.com/in/denis-bajgora-1a4153324/
 
 Other Github account: https://github.com/DenisBajgora
+
+Technologies I Use
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
