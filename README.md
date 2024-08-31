@@ -6,7 +6,7 @@
 
 🧩 Check out my work on GitHub or connect with me on LinkedIn!
 
-LinkedIn: https://www.linkedin.com/in/denis-bajgora-1a4153324/
+LinkedIn: https://www.linkedin.com/in/denis-bajgora/
 
 Other Github account: https://github.com/DenisBajgora
 
