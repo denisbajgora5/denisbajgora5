@@ -8,11 +8,11 @@
 
 🎯 My goal is to continually grow my skills and contribute to impactful projects.
 
-Check out my work on GitHub or connect with me on LinkedIn!
+📟 Check out my work on GitHub or connect with me on LinkedIn!
 
-LinkedIn: https://www.linkedin.com/in/denis-bajgora-1a4153324/
+[![My Skills](https://skillicons.dev/icons?i=,linkedin)](https://skillicons.dev) LinkedIn: https://www.linkedin.com/in/denis-bajgora-1a4153324/
 
-Other Github account: https://github.com/DenisBajgora
+[![My Skills](https://skillicons.dev/icons?i=,github)](https://skillicons.dev) Other Github account: https://github.com/DenisBajgora
 
 Technologies I Use
 
